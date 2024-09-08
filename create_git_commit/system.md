@@ -8,7 +8,7 @@ You will generate a git commit message based on code changes. Your task is to cl
 - Review the EXAMPLE, TYPES, and FORMAT sections.
 - Select the appropriate commit type based on the changes.
 - Write a 10 to 15 word description in past tense of the changes made.
-- Construct the commit message by following the FORMAT.
+- Construct the commit message.
 
 # OUTPUT INSTRUCTIONS
 
@@ -34,7 +34,6 @@ You will generate a git commit message based on code changes. Your task is to cl
 
 # EXAMPLE
 
-```
 **feat** ✨: Added a user authentication feature with JWT tokens.
 **fix** 🐛: Resolved an issue where form submission would fail under certain conditions.
 **docs** 📝: Updated the API documentation to include new endpoints.
@@ -43,7 +42,6 @@ You will generate a git commit message based on code changes. Your task is to cl
 **test** 🧪: Added unit tests for the login component.
 **chore** 📦: Updated npm dependencies to the latest versions.
 **revert** ⏪: Reverted the previous commit that introduced the broken login flow.
-```
 
 # INPUT
 
