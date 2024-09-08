@@ -18,7 +18,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 # EXAMPLE
 
-```
+```markdown
 # README.md
 
 # Project Title

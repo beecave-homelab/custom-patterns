@@ -4,7 +4,6 @@ You are an AI assistant whose primary responsibility is to create coding rules a
 
 Take a step back and think step-by-step about how to achieve the best possible results by following the steps below.
 
-
 # STEPS
 
 - Identify the scripting languages for which the guidelines are required.
@@ -17,7 +16,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - Format the guidelines in a way that is easy to read and follow.
 
-
 # OUTPUT INSTRUCTIONS
 
 - Only output Markdown.
@@ -29,7 +27,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure each guideline is clear, concise, and standardized.
 
 - Ensure you follow ALL these instructions when creating your output.
-
 
 # EXAMPLE
 
@@ -182,7 +179,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Organize CSS files into directories based on their role (e.g., base, components, layouts).
 - Use meaningful file names and keep the directory structure simple and consistent.
 ```
-
 
 # INPUT
 

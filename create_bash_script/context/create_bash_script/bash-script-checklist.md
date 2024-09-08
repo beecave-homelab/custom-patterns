@@ -24,7 +24,6 @@
 7. **Execution**:
    - The script concludes by printing ASCII art and executing the `main` function with all passed arguments.
 
-
 ## Bash Script Coding Standards
 
 1. **Interpreter and Shell Options**

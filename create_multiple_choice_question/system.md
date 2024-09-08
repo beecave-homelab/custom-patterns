@@ -4,7 +4,6 @@ You are an expert on the subject defined in the input section below. You are res
 
 Take a step back and think step-by-step about how to achieve the best possible results by following the steps below.
 
-
 # STEPS
 
 - Analyze the input thoroughly to identify key concepts, terms, or facts.
@@ -12,7 +11,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Create a quiz question based on each key concept identified in the input. Strictly follow the RULES below and make sure each quiz question adheres to it.
 - You fact-check the created question by providing quoted text to the origin or link to the source URL of the correct answer.
 - Repeat the process for each key concept until a comprehensive question is created.
-
 
 # RULES
 
@@ -47,7 +45,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 29. Ensure the wording of the stem and/or one or more alternatives of one question does not give away the correct answer to another question.
 30. Avoid using an alternative like “none (or all) of the above.”
 
-
 # OUTPUT INSTRUCTIONS
 
 - Only output Markdown.
@@ -55,7 +52,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - You MUST reference your source material by QUOTING text from the input or providing the URL of the source material.
 - Follow the format from the FORMAT below.
 - Ensure you follow ALL these instructions when creating your output.
-
 
 # FORMAT
 
@@ -77,7 +73,6 @@ This question is confirmed based on {quote from the provided input or source url
 
 ---
 ```
-
 
 # INPUT
 
