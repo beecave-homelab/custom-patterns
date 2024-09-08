@@ -7,3 +7,5 @@
 
 # Ensure .md files in subdirectories are not ignored
 !**/*.md
+!**/**/*.md
+!**/**/**/*.md
