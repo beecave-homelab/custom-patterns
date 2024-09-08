@@ -2,10 +2,43 @@
 
 A directory containing custom fabric patterns.
 
+## Patterns
+```
+custom-patterns
+├── code_changes
+│  └── system.md
+├── coding_rules
+│  └── system.md
+├── create_bash_script
+│  ├── context
+│  │  └── create_bash_script
+│  │     ├── bash-script-checklist.md
+│  │     └── bash-script-template.md
+│  ├── README.md
+│  └── system.md
+├── create_git_commit
+│  └── system.md
+├── create_multiple_choice_question
+│  └── system.md
+├── create_readme
+│  └── system.md
+├── create_tags
+│  └── system.md
+├── LICENSE
+├── README.md
+├── summarize_article
+│  ├── system-v2.md
+│  ├── system-v3.md
+│  └── system.md
+└── update_readme
+   └── system.md
+```
+
 ## Versions
 **Current version**: 0.1.0 (Initial release)
 
 ## Table of Contents
+- [Patterns](#patterns)
 - [Versions](#versions)
 - [Badges](#badges)
 - [Installation](#installation)
