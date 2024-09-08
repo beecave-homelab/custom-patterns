@@ -5,7 +5,7 @@ You will generate a git commit message based on code changes. Your task is to cl
 # STEPS
 
 - Analyze the code changes provided.
-- Review the EXAMPLE and FORMAT sections.
+- Review the EXAMPLE, TYPES, and FORMAT sections.
 - Select the appropriate commit type based on the changes.
 - Write a 10 to 15 word description in past tense of the changes made.
 - Construct the commit message by following the FORMAT.
@@ -19,6 +19,18 @@ You will generate a git commit message based on code changes. Your task is to cl
 # FORMAT
 
 **{type}** {emoji}: {description of change}
+
+# TYPES
+
+"feat": "✨",
+"fix": "🐛",
+"docs": "📝",
+"style": "💎",
+"refactor": "♻️",
+"test": "🧪",
+"chore": "📦",
+"revert": "⏪"
+
 
 # EXAMPLE
 
