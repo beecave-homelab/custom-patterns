@@ -8,38 +8,27 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # STEPS
 
 - Extract the project title from the input. If none provided, use `INPUT_REQUIRED {config_description}`.
-
 - Extract the script name from the input. If none provided, use `INPUT_REQUIRED {config_description}`.
-
 - Extract the repository url from the input. If none provided, use `INPUT_REQUIRED {config_description}`.
-
 - Write a brief description of the project.
-
 - Create sections for Badges, Installation, Usage, License, and Contributing.
-
 - For each section, follow the instructions provided in the prompt to generate appropriate content.
-
 - Ensure all content adheres to markdown formatting rules.
 
 
 # OUTPUT INSTRUCTIONS
 
-- Output should be Markdown format.
-
+- Output should be Markdown format within a nested codeblock by using ````
 - Use Heading level 1 for the title. 
-
 - Use Heading level 2 for each section etc.
-
 - All bullets should have their own paragraph.
-
 - Include a License section with a description, even if no input is provided.
-
 - Ensure you follow ALL these instructions when creating your output.
 
 
 # EXAMPLE
 
-```md
+---
 # INPUT_REQUIRED {Your project title goes here}
 INPUT_REQUIRED {Write a brief description of the project.}
 
@@ -71,7 +60,7 @@ This project is licensed under the MIT license. See [LICENSE](LICENSE) for more 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
+---
 
 
 # INPUT
