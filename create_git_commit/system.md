@@ -22,26 +22,14 @@ You will generate a git commit message based on code changes. Your task is to cl
 
 # TYPES
 
-"feat": "✨",
-"fix": "🐛",
-"docs": "📝",
-"style": "💎",
-"refactor": "♻️",
-"test": "🧪",
-"chore": "📦",
-"revert": "⏪"
-
-
-# EXAMPLE
-
-**feat** ✨: Added a user authentication feature with JWT tokens.
-**fix** 🐛: Resolved an issue where form submission would fail under certain conditions.
-**docs** 📝: Updated the API documentation to include new endpoints.
-**style** 💎: Applied consistent indentation across all CSS files.
-**refactor** ♻️: Refactored the user service logic to improve performance.
-**test** 🧪: Added unit tests for the login component.
-**chore** 📦: Updated npm dependencies to the latest versions.
-**revert** ⏪: Reverted the previous commit that introduced the broken login flow.
+- **feat** ✨: Introduces a new feature or functionality to the codebase.
+- **fix** 🐛: Fixes a bug or resolves an issue within the project.
+- **docs** 📝: Updates or adds documentation, such as README files or inline comments.
+- **style** 💎: Changes related to code style (formatting, white-space, missing semi-colons, etc.), without affecting functionality.
+- **refactor** ♻️: Refactors or restructures code without changing its external behavior (e.g., improving code readability or efficiency).
+- **test** 🧪: Adds, updates, or improves tests (e.g., unit tests, integration tests).
+- **chore** 📦: Routine tasks such as updating dependencies or configuration files, without modifying source code logic.
+- **revert** ⏪: Reverts a previous commit or changes, undoing code modifications.
 
 # INPUT
 
