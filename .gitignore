@@ -1,0 +1,9 @@
+# Ignore everything except .md files and LICENSE
+*
+!*.md
+!LICENSE
+!*/
+!.gitignore
+
+# Ensure .md files in subdirectories are not ignored
+!**/*.md
