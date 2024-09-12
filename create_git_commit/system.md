@@ -18,7 +18,7 @@ You will generate a git commit message based on code changes. Your task is to cl
 
 # FORMAT
 
-**{type}** {emoji}: {description of change}
+{type} {emoji}: {description of change}
 
 # TYPES
 
