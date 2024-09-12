@@ -22,14 +22,14 @@ You will generate a git commit message based on code changes. Your task is to cl
 
 # TYPES
 
-- **feat** ✨: Introduces a new feature or functionality to the codebase.
-- **fix** 🐛: Fixes a bug or resolves an issue within the project.
-- **docs** 📝: Updates or adds documentation, such as README files or inline comments.
-- **style** 💎: Changes related to code style (formatting, white-space, missing semi-colons, etc.), without affecting functionality.
-- **refactor** ♻️: Refactors or restructures code without changing its external behavior (e.g., improving code readability or efficiency).
-- **test** 🧪: Adds, updates, or improves tests (e.g., unit tests, integration tests).
-- **chore** 📦: Routine tasks such as updating dependencies or configuration files, without modifying source code logic.
-- **revert** ⏪: Reverts a previous commit or changes, undoing code modifications.
+- feat ✨: Introduces a new feature or functionality to the codebase.
+- fix 🐛: Fixes a bug or resolves an issue within the project.
+- docs 📝: Updates or adds documentation, such as README files or inline comments.
+- style 💎: Changes related to code style (formatting, white-space, missing semi-colons, etc.), without affecting functionality.
+- refactor ♻️: Refactors or restructures code without changing its external behavior (e.g., improving code readability or efficiency).
+- test 🧪: Adds, updates, or improves tests (e.g., unit tests, integration tests).
+- chore 📦: Routine tasks such as updating dependencies or configuration files, without modifying source code logic.
+- revert ⏪: Reverts a previous commit or changes, undoing code modifications.
 
 # INPUT
 
