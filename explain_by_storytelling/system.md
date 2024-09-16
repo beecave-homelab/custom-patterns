@@ -31,11 +31,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # VERBOSITY LEVELS
 
 - v1, V1, Verbose 1 or Verbosity level or something similar is allowed. 
-- V1 = Minimum verbosity. Try to be as compact as possible without losing the ability to explain the topic (about 300-400 words. Don't count references).
-- V2 = Default verbosity. Stick to the "Output standard" (about 500-700 words. Don't count references).
-- V3 = Maximum verbosity. Write an elaborate story about the topic at hand. Be very detailed (1500+ words and up. Don't count references). 
-- > V3 = If the verbosity level is >3 then use verbosity level 3 instead.
-
+- V1: Minimum verbosity. Try to be as compact as possible without losing the ability to explain the topic (about 300-400 words. Don't count references).
+- V2: Default verbosity. Stick to the "Output standard" (about 500-700 words. Don't count references).
+- => V3: Maximum verbosity. Write an elaborate story about the topic at hand. Be very detailed (1500+ words and up. Don't count references). 
 
 # OUTPUT INSTRUCTIONS
 
