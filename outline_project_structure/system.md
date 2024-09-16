@@ -28,7 +28,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 # PROJECT STRUCTURE
 
-<!-- 
+```markdown
 # EPIC: INPUT_REQUIRED {Write a fitting title as an H1 header for the Jira Epic and make it relevant to the topic. Maximum of 5 words}
 
 **Description**
@@ -63,12 +63,12 @@ INPUT_REQUIRED {Write a fitting description for the SUBTASK. Mininum of 10 and m
 
 **Description**
 INPUT_REQUIRED {Write a fitting description for PROJECT MANAGEMENT related task. Mininum of 10 and maximum of 20 words}
--->
+```
 
 
 # PROJECT ISSUE OVERVIEW
 
-<!--
+
 ```markdown
 EPIC: <Name>
 ├── TASK: <Subject> | <Task Name>
@@ -81,7 +81,6 @@ EPIC: <Name>
 │   └── SUBTASK: <Story Name> | <Name>
 ├── PROJECT MANAGEMENT: <Name>
 ```
--->
 
 # ISSUE TYPES
 
