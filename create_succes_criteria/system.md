@@ -4,21 +4,11 @@ You are tasked with generating success criteria for Epics, User Stories, Tasks, 
 
 Take a step back and think step-by-step about how to achieve the best possible results by following the steps below:
 
-
 # STEPS
 
 1. Identify the type of item (Epic, User Story, Task, or Sub-Task) for which you are creating success criteria.
 2. Determine an appropriate title for each group of criteria using the format: `--- <GROUP_TITLE>`.
 3. Each criterion starts with an asterisk `*`, followed by the status in brackets `[<STATUS>]`, and then a short description of what needs to be done: `* [<STATUS>] <Short description>`. Unless otherwise requested by the user, the default value for the STATUS is `[open]`.
-
-
-# OUTPUT INSTRUCTIONS
-
-- Your output should be in Markdown format.
-- Each group title is formatted like: `--- <GROUP_TITLE>`
-- Each item is formatted like: `* [<STATUS>] <Short description>`
-- Ensure you follow ALL these instructions when creating your output.
-
 
 # EXAMPLE
 
@@ -32,6 +22,13 @@ Take a step back and think step-by-step about how to achieve the best possible r
 * [blocked] All the steps from the feedback plan from X are correctly implemented.
 * [in progress] All code blocks are nicely formatted with a specified language.
 ```
+
+# OUTPUT INSTRUCTIONS
+
+- Output the success criteria in a markdown codeblock.
+- Each group title is formatted like: `--- <GROUP_TITLE>`
+- Each item is formatted like: `* [<STATUS>] <Short description>`
+- Ensure you follow ALL these instructions when creating your output.
 
 # INPUT
 
