@@ -10,6 +10,7 @@ custom-patterns
 │  └── system.md
 ├── coding_rules
 │  └── system.md
+├── copy-custom-patterns.sh
 ├── create_bash_script
 │  ├── context
 │  │  └── create_bash_script
@@ -19,11 +20,23 @@ custom-patterns
 │  └── system.md
 ├── create_git_commit
 │  └── system.md
+├── create_issue_description
+│  └── system.md
 ├── create_multiple_choice_question
+│  └── system.md
+├── create_project_overview
 │  └── system.md
 ├── create_readme
 │  └── system.md
+├── create_repository_file_tree
+│  └── system.md
+├── create_succes_criteria
+│  └── system.md
 ├── create_tags
+│  └── system.md
+├── explain_by_storytelling
+│  └── system.md
+├── explain_github_file
 │  └── system.md
 ├── LICENSE
 ├── README.md
@@ -31,13 +44,15 @@ custom-patterns
 │  ├── system-v2.md
 │  ├── system-v3.md
 │  └── system.md
-└── update_readme
+├── update_readme
+│  └── system.md
+└── write_it_better
    └── system.md
 ```
 
 ## Versions
 
-**Current version**: 0.1.0 (Initial release)
+**Current version**: 0.1.1
 
 ## Table of Contents
 
@@ -68,12 +83,24 @@ custom-patterns
    cd custom-patterns
    ```
 
+3. Copy the custom patterns to the `~/.config/fabric/patterns` directory.
+
+   ```bash
+   ./copy-custom-patterns.sh
+   ```
+
+4. Check if the custom patterns are avaliable to use in fabric.
+
+   ```bash
+   fabric -l
+   ```
+
 ## Usage
 
 This repository contains various custom fabric patterns. To use a specific pattern:
 
 1. Navigate to the desired pattern's directory.
-2. Follow the instructions provided in the pattern's README or documentation.
+2. Follow the instructions provided in the fabric repository `README.md` 
 
 ## License
 
