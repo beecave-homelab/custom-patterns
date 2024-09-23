@@ -20,7 +20,7 @@ You will generate a git commit message based on code changes. Your task is to cl
 
 {type} {emoji}: {description of change}
 
-# TYPES
+# EXAMPLE
 
 - feat ✨: Introduces a new feature or functionality to the codebase.
 - fix 🐛: Fixes a bug or resolves an issue within the project.
