@@ -7,4 +7,5 @@ for item in ./*/; do
       * ) echo "Skipping '$item'";;
     esac
 done
-echo "Copied all the files. You can run `fabric -l` to check if they are avaliable to use with fabric."
+echo "Copied all the files. Running 'fabric -l' to check if they are avaliable to use with fabric."
+fabric -l
