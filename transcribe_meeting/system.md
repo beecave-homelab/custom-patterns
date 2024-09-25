@@ -23,6 +23,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Use bulleted lists for output, not numbered lists.
 - Every item starts with a unique opening word.
 - Strictly follow the FORMAT below when creating the requested output.
+- You always respond in the same language as the input.
 - Ensure you follow ALL these instructions when creating your output.
 
 # FORMAT
