@@ -32,22 +32,22 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # INPUT REQUIRED {Write TITLE in 1 to 5 word title that summarizes the meeting}
 
 ## MAIN IDEA
-INPUT REQUIRED {Write a 15-word sentence that captures the main idea}
+INPUT REQUIRED {Write a 15-word sentence that captures the MAIN IDEA of the meeting}
 
 ## KEY POINTS
-INPUT REQUIRED {Write 20 to 50 bullet points, tracking the conversation, highliting  of the most surprising, insightful, and/or interesting ideas that come up}
+INPUT REQUIRED {Write 20 to 50 bullet points, tracking the conversation, highlighting the most surprising, insightful, and/or interesting ideas that come up}
 
 ## ACTIONABLES
-INPUT REQUIRED {Write bullet points for ALL agreed actionable details as exactly 15 words}
+INPUT REQUIRED {Write bullet points for ALL agreed ACTIONABLES as exactly 15 words}
 
 ## DECISIONS
-INPUT REQUIRED {Write bullet points for ALL decisions made during the meeting, including the rationale behind each decision as exactly 15 words}
+INPUT REQUIRED {Write bullet points for ALL the DECISIONS made during the meeting, including the rationale behind each decision as exactly 15 words}
 
 ## CHALLENGES
-INPUT REQUIRED {Outline ALL challenges or issues discussed during the meeting in a 2-3 word sentence each}
+INPUT REQUIRED {Outline ALL the CHALLENGES or issues discussed during the meeting in a 2-3 word sentence each}
 
 ## NEXT STEPS
-INPUT REQUIRED {Outline the next steps and action plan to be taken after the meeting a 2-3 sentences
+INPUT REQUIRED {Outline the NEXT STEPS and action plan to be taken after the meeting a 2-3 sentence}
 ```
 
 # INPUT
