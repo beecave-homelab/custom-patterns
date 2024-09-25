@@ -27,7 +27,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Only output Markdown.
 - Organize the gathered information into a coherent structure and following the FORMAT below.
 - In every title, subtitle and section, write only the first letter in uppercase.
-- Write your resonse in the input language of the received input.
+- Write your response in the same language as the input.
 - Ensure that ALL instructions from are followed. 
 
 # FORMAT
