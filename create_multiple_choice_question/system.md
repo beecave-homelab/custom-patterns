@@ -58,7 +58,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 ```markdown
 ## Subject: {describe the subject in 1 short sentence}
 
-### {Generated question}
+### {question number formatted as `1.`}. {generated question} {amount of correct answers as a number}
 
 **A.** {generated answer A}
 **B.** {generated answer A}
@@ -67,9 +67,32 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 #### Feedback:
 
-**Correct answer**: {the correct answer to the question}
+**Correct answer**: {the correct answer(s) to the question} (and {other correct answer(s))}
 
 This question is confirmed based on {quote from the provided input or source url of the correct answer}
+
+---
+```
+
+# EXAMPLE
+
+```markdown
+## Subject: TYPO3 Extensions
+
+### 3. What is the purpose of TYPO3 extensions? (2)
+
+A. To be able to customize the TYPO3 instance.  
+B. To increase server memory.  
+C. To extend the functionality of TYPO3.  
+D. To convert TYPO3 into a web browser.
+
+#### Feedback:
+
+**Correct answer(s)**: A and C. 
+
+This question is confirmed based on the following text: "To extend the functionality of TYPO3. Since you’re extending the functionality of the standard TYPO3 code you are customizing the TYPO3 instance." 
+
+Source: [https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Index.html#extensions](https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Index.html#extensions)
 
 ---
 ```
