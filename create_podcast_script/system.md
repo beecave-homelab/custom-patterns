@@ -20,7 +20,8 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure no chapter numbers are present in the sub-chapter names.
 - Ensure that code snippets are not included; instead, explain the intent of the code.
 - Ensure that tables are formatted as lists.
-- The script should be a long-format podcast where the host takes all the time necessary to explain the source text verbosely.
+- The script should be a long-format podcast where the host takes all the time necessary to explain the source text.
+- Be as verbose as possible.
 - Ensure you follow ALL these instructions when creating your output.
 
 # FORMAT
