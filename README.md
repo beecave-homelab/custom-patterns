@@ -99,25 +99,27 @@ custom-patterns
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/beecave-homelab/custom-patterns.git
    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
 
    ```bash
    cd custom-patterns
    ```
 
-3. Copy the custom patterns to the `~/.config/fabric/patterns` directory:
+3. **When using the patterns with `Fabric`**: 
+
+- Copy the custom patterns to the `~/.config/fabric/patterns` directory:
 
    ```bash
    ./copy-custom-patterns.sh
    ```
 
-4. Verify that the custom patterns are available for use in Fabric:
+- Verify that the custom patterns are available for use in Fabric:
 
    ```bash
    fabric -l
@@ -128,7 +130,7 @@ custom-patterns
 This repository contains a variety of custom Fabric patterns. To use a specific pattern:
 
 1. Navigate to the directory of the desired pattern.
-2. Follow the instructions provided in the Fabric repository’s `README.md`.
+2. Follow the instructions provided in the Fabric repository’s [README.md](https://github.com/danielmiessler/fabric).
 
 ## License
 
