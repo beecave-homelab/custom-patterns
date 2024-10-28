@@ -72,7 +72,6 @@ custom-patterns
 ├── analyze_learning_journey
 ├── code_changes
 ├── coding_rules
-├── copy-custom-patterns.sh
 ├── create_bash_script
 ├── create_git_commit
 ├── create_info_page
