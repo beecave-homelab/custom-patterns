@@ -1,64 +1,13 @@
 # custom-patterns
 
-A directory containing custom fabric patterns.
-
-## Patterns
-
-```markdown
-custom-patterns
-├── code_changes
-│  └── system.md
-├── coding_rules
-│  └── system.md
-├── copy-custom-patterns.sh
-├── create_bash_script
-│  ├── context
-│  │  └── create_bash_script
-│  │     ├── bash-script-checklist.md
-│  │     └── bash-script-template.md
-│  ├── README.md
-│  └── system.md
-├── create_git_commit
-│  └── system.md
-├── create_issue_description
-│  └── system.md
-├── create_multiple_choice_question
-│  └── system.md
-├── create_project_overview
-│  └── system.md
-├── create_readme
-│  └── system.md
-├── create_repository_file_tree
-│  └── system.md
-├── create_succes_criteria
-│  └── system.md
-├── create_tags
-│  └── system.md
-├── explain_by_storytelling
-│  └── system.md
-├── explain_github_file
-│  └── system.md
-├── LICENSE
-├── README.md
-├── summarize_article
-│  ├── system-v2.md
-│  ├── system-v3.md
-│  └── system.md
-├── update_readme
-│  └── system.md
-└── write_it_better
-   └── system.md
-```
-
-## Versions
-
-**Current version**: 0.1.1
+A repository containing custom system prompts for use with Large Language Models such as ChatGPT, Claude, and others. These prompts are fully compatible with [Fabric](https://github.com/danielmiessler/fabric).
 
 ## Table of Contents
 
-- [Patterns](#patterns)
-- [Versions](#versions)
 - [Badges](#badges)
+- [About System Prompts (Patterns)](#about-system-prompts-patterns)
+- [Pattern Structure](#pattern-structure)
+- [Patterns](#patterns)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -66,8 +15,87 @@ custom-patterns
 
 ## Badges
 
-![GitHub](https://img.shields.io/github/license/beecave-homelab/custom-patterns)
-![GitHub last commit](https://img.shields.io/github/last-commit/beecave-homelab/custom-patterns)
+![Markdown](https://img.shields.io/badge/Markdown-Syntax-blue) ![AI](https://img.shields.io/badge/AI-Compatible-green)
+
+## About System Prompts (Patterns)
+
+The patterns in this repository are built according to Fabric's approach to prompting, which differs from traditional methods in several key ways:
+
+1. **Markdown-based Structure**:
+   - All patterns are written in Markdown format.
+   - This enhances readability and ease of editing.
+   - It allows both humans and AI to clearly understand the instructions.
+   - Ensures consistency across various patterns.
+
+2. **Clear Instructions**:
+   - Each pattern uses a structured format to communicate with the AI.
+   - Instructions are presented in a clear, step-by-step manner.
+   - The Markdown structure highlights what actions the AI should take and in which sequence.
+
+3. **System-First Approach**:
+   - Patterns primarily focus on the System section of the prompt.
+   - This method has proven more effective in practical applications.
+   - System prompts help maintain consistent behavior across different interactions.
+
+### Pattern Structure
+
+Each pattern in this repository typically follows this structure:
+
+```markdown
+# IDENTITY and PURPOSE
+Defines the AI's role and primary objective for this pattern.
+
+# STEPS
+Outlines the specific steps the AI should follow to accomplish the task.
+
+# FORMAT
+Details the structure and formatting requirements for the output.
+
+# OUTPUT INSTRUCTIONS
+Provides specific guidelines on how the output should be presented.
+
+# INPUT
+The section where user input is processed.
+```
+
+These patterns are designed to:
+- Clearly define the AI’s role and objectives.
+- Provide step-by-step instructions.
+- Ensure consistent formatting.
+- Set clear output requirements.
+- Efficiently process user input.
+
+## Patterns
+
+```markdown
+custom-patterns
+├── analyze_learning_journey
+├── code_changes
+├── coding_rules
+├── copy-custom-patterns.sh
+├── create_bash_script
+├── create_git_commit
+├── create_info_page
+├── create_interview_questions
+├── create_issue
+├── create_multiple_choice_question
+├── create_podcast_script
+├── create_project_overview
+├── create_readme
+├── create_repository_file_tree
+├── create_structured_interview
+├── create_success_criteria
+├── create_tags
+├── explain_by_storytelling
+├── explain_github_file
+├── extract_question
+├── rewrite_issue_description
+├── summarize_article
+├── summarize_chapter
+├── transcribe_meeting
+├── update_readme
+└── write_it_better
+```
 
 ## Installation
 
@@ -83,13 +111,13 @@ custom-patterns
    cd custom-patterns
    ```
 
-3. Copy the custom patterns to the `~/.config/fabric/patterns` directory.
+3. Copy the custom patterns to the `~/.config/fabric/patterns` directory:
 
    ```bash
    ./copy-custom-patterns.sh
    ```
 
-4. Check if the custom patterns are avaliable to use in fabric.
+4. Verify that the custom patterns are available for use in Fabric:
 
    ```bash
    fabric -l
@@ -97,15 +125,15 @@ custom-patterns
 
 ## Usage
 
-This repository contains various custom fabric patterns. To use a specific pattern:
+This repository contains a variety of custom Fabric patterns. To use a specific pattern:
 
-1. Navigate to the desired pattern's directory.
-2. Follow the instructions provided in the fabric repository `README.md` 
+1. Navigate to the directory of the desired pattern.
+2. Follow the instructions provided in the Fabric repository’s `README.md`.
 
 ## License
 
-This project is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For significant changes, please open an issue first to discuss the proposed modifications.
