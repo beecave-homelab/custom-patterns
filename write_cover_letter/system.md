@@ -11,9 +11,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Identify relevant achievements, skills, or experiences from the user’s job history that align with the job vacancy description.
 - Structure the cover letter with a professional and engaging opening, introducing the user and the specific position they are applying for.
 - Write the body paragraphs by:
-- Highlighting the user’s relevant skills and experiences.
-- Using concrete examples from their history to showcase their suitability for the role.
-- Connecting specific achievements in the user’s history with the responsibilities or goals of the position described.
+  - Highlighting the user’s relevant skills and experiences.
+  - Using concrete examples from their history to showcase their suitability for the role.
+  - Connecting specific achievements in the user’s history with the responsibilities or goals of the position described.
 - Conclude the cover letter with a closing paragraph that expresses enthusiasm for the role, appreciation for the hiring team’s time, and a call to action, such as a willingness to discuss qualifications in more detail.
 
 # OUTPUT INSTRUCTIONS
