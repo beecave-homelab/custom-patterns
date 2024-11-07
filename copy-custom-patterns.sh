@@ -37,9 +37,9 @@ done
 
 # Copy context files to context
 for context_file in "${context_files[@]}"; do
-    read -p "Do you want to copy '$context_file' to ~/.config/fabric/context? (y/n) " choice
+    read -p "Do you want to copy '$context_file' to ~/.config/fabric/contexts? (y/n) " choice
     case "$choice" in 
-      y|Y ) cp -R "$context_file" ~/.config/fabric/context;;
+      y|Y ) cp -R "$context_file" ~/.config/fabric/contexts;;
       * ) echo "Skipping '$context_file'";;
     esac
 done
