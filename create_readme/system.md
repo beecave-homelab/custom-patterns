@@ -24,9 +24,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure you follow ALL these instructions when creating your output.
 
 # EXAMPLE
-
----
-
+```
 # INPUT_REQUIRED {Your project title goes here}
 
 INPUT_REQUIRED {Write a brief description of the project.}
@@ -66,8 +64,7 @@ This project is licensed under the MIT license. See [LICENSE](LICENSE) for more 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
+```
 
 # INPUT
 
