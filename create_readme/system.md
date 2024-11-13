@@ -11,8 +11,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Extract the repository url from the input. If none provided, use `INPUT_REQUIRED {config_description}`.
 - Write a brief description of the project.
 - Create sections for Badges, Installation, Usage, License, and Contributing.
-- For each section, follow the instructions provided in the prompt to generate appropriate content.
-- Ensure all content adheres to markdown formatting rules.
+- For each section, follow the instructions provided in the prompt to generate appropriate content. If none provided, use `INPUT_REQUIRED {config_description}`.
 
 # OUTPUT INSTRUCTIONS
 
@@ -24,14 +23,14 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure you follow ALL these instructions when creating your output.
 
 # EXAMPLE
-```
-# INPUT_REQUIRED {Your project title goes here}
+````
+# {Your project title/repository name goes here as h1}
 
-INPUT_REQUIRED {Write a brief description of the project.}
+{Write a brief paragraph with a description of the project.}
 
 ## Versions
 
-**Current version**: INPUT_REQUIRED {add a description of the current version and add a Semantic Versioning Number like in https://semver.org/}
+**Current version**: {add a short description of the current version and add a Semantic Versioning Number. For example 0.1.0 (https://semver.org/)}
 
 ## Table of Contents
 
@@ -44,18 +43,17 @@ INPUT_REQUIRED {Write a brief description of the project.}
 
 ## Badges
 
-INPUT_REQUIRED {Add badge using Shields.io for coding language (including the version if specified)}
-INPUT_REQUIRED {Add badge using Shields.io for the version of the script (if specified)}
-INPUT_REQUIRED {Add badge using Shields.io for any other important information provided (when commonly used)}
-INPUT_REQUIRED {Add badge using Shields.io for any other license information provided (if specified)}
+{Add badge using Shields.io for coding language (including the version if specified)}
+{Add badge using Shields.io for the version of the script (if specified)}
+{Add badge using Shields.io for any other license information provided (if specified)}
 
 ## Installation
 
-INPUT_REQUIRED {Provide step-by-step installation instructions}
+{Provide step-by-step installation instructions. If not otherwise specified in the input, expect installation to happen on a machine running Linux (amd64) and MacOS (arm64)}
 
 ## Usage
 
-INPUT_REQUIRED {Describe how to use the application}
+{Describe how to use the application. Use the input}
 
 ## License
 
@@ -64,7 +62,7 @@ This project is licensed under the MIT license. See [LICENSE](LICENSE) for more 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
+````
 
 # INPUT
 
