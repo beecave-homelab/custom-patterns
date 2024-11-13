@@ -24,17 +24,17 @@ Take a step back and think step-by-step about how to achieve the best possible r
   - Include a license description (even if no input is provided).
 - In **Contributing**:
   - Mention that pull requests are welcome and to open an issue for major changes.
-- Ensure all sections match the structure and content in the EXAMPLE.
+- Ensure all sections match the structure and content provided by the FORMAT.
 
 # OUTPUT INSTRUCTIONS
 
 - Output should follow the example in the FORMAT section below.
-- Output should be Markdown format within a nested codeblock by using ````
+- Output should be Markdown format within a nested codeblock by using ````.
 - Ensure you follow ALL these instructions when creating your output.
 
 # FORMAT
 
-````
+````markdown
 # {Your project title/repository name goes here as h1}
 
 {Brief project description (50-100 words)}
