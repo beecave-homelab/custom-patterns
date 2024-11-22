@@ -66,7 +66,7 @@ These patterns are designed to:
 - Set clear output requirements.
 - Efficiently process user input.
 
-## Patterns
+## Overview of Patterns
 
 ```markdown
 custom-patterns
