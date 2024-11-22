@@ -59,6 +59,7 @@ The section where user input is processed.
 ```
 
 These patterns are designed to:
+
 - Clearly define the AI’s role and objectives.
 - Provide step-by-step instructions.
 - Ensure consistent formatting.
@@ -70,30 +71,43 @@ These patterns are designed to:
 ```markdown
 custom-patterns
 ├── analyze_learning_journey
+├── clean_markdown_file
 ├── code_changes
 ├── coding_rules
 ├── create_bash_script
+├── create_do_not_translate_word_list
+├── create_english_word_list
 ├── create_git_commit
+├── create_image_prompt
 ├── create_info_page
+├── create_installation_page
 ├── create_interview_questions
 ├── create_issue
 ├── create_multiple_choice_question
+├── create_pattern_nl
 ├── create_podcast_script
 ├── create_project_overview
 ├── create_readme
 ├── create_repository_file_tree
 ├── create_structured_interview
-├── create_success_criteria
+├── create_succes_criteria
 ├── create_tags
 ├── explain_by_storytelling
 ├── explain_github_file
 ├── extract_question
+├── improve_my_prompt
+├── improve_my_prompt_costar
+├── polish_text
 ├── rewrite_issue_description
 ├── summarize_article
 ├── summarize_chapter
 ├── transcribe_meeting
+├── translate_text
 ├── update_readme
-└── write_it_better
+├── write_cover_letter
+├── write_in_different_tone
+├── write_it_better
+└── write_training_document
 ```
 
 ## Installation
@@ -110,7 +124,7 @@ custom-patterns
    cd custom-patterns
    ```
 
-3. **When using the patterns with `Fabric`**: 
+3. **When using the patterns with `Fabric`**:
 
 - Copy the custom patterns to the `~/.config/fabric/patterns` directory:
 
