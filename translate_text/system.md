@@ -21,6 +21,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - The output text adheres to the user's provided `Do not translate` word list, leaving specified English words or phrases untranslated.
 - The output text includes NO additional commentary, explanation, or untranslated phrases beyond those specified by the user.
 
-# INPUT:
+# INPUT
 
 INPUT:
