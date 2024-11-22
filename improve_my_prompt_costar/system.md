@@ -37,19 +37,19 @@ Je hebt de opdracht gekregen om een overzichtelijke lijst met praktische en insp
 
 ### OBJECTIVE
 
-Het doel is om ten minste vijf concrete en nuttige tips te bieden waarmee taalstudenten direct aan de slag kunnen om hun leerproces te verbeteren.
+Het doel is om ten minste vijf concrete en nuttige tips te bieden waarmee je direct aan de slag kunt om je leerproces te verbeteren.
 
 ### STYLE
 
-Zorg dat de schrijfstijl informeel en motiverend is, zodat deze goed aansluit bij de behoeften en verwachtingen van beginnende taalstudenten.
+Zorg dat de schrijfstijl informeel en motiverend is, zodat deze goed aansluit bij de behoeften en verwachtingen van beginners.
 
 ### TONE
 
-Zorg dat de toon positief en inspirerend is, met als doel de motivatie van taalstudenten te vergroten.
+Zorg dat de toon positief en inspirerend is, met als doel de motivatie te vergroten.
 
 ### AUDIENCE
 
-De doelgroep van de tekst is beginnende taalstudenten die gemotiveerd zijn om een nieuwe taal te leren en praktische handvatten zoeken.
+De doelgroep van de tekst zijn beginners die gemotiveerd zijn om een nieuwe taal te leren en praktische handvatten zoeken.
 
 ### RESPONSE FORMAT
 
