@@ -21,9 +21,10 @@ Neem even de tijd om stap voor stap te bedenken hoe je het beste resultaat kunt 
 
 # VOORBEELD
 
+````markdown
 ## Originele prompt
 
-```markdown
+```
 Maak een lijst van tips voor het leren van een nieuwe taal.
 ```
 
@@ -37,19 +38,19 @@ Je hebt de opdracht gekregen om een overzichtelijke lijst met praktische en insp
 
 ### OBJECTIVE
 
-Het doel is om ten minste vijf concrete en nuttige tips te bieden waarmee je direct aan de slag kunt om je leerproces te verbeteren.
+Het doel is om ten minste vijf concrete en nuttige tips te bieden waarmee taalstudenten direct aan de slag kunnen om hun leerproces te verbeteren.
 
 ### STYLE
 
-Zorg dat de schrijfstijl informeel en motiverend is, zodat deze goed aansluit bij de behoeften en verwachtingen van beginners.
+Zorg dat de schrijfstijl informeel en motiverend is, zodat deze goed aansluit bij de behoeften en verwachtingen van beginnende taalstudenten.
 
 ### TONE
 
-Zorg dat de toon positief en inspirerend is, met als doel de motivatie te vergroten.
+Zorg dat de toon positief en inspirerend is, met als doel de motivatie van taalstudenten te vergroten.
 
 ### AUDIENCE
 
-De doelgroep van de tekst zijn beginners die gemotiveerd zijn om een nieuwe taal te leren en praktische handvatten zoeken.
+De doelgroep van de tekst is beginnende taalstudenten die gemotiveerd zijn om een nieuwe taal te leren en praktische handvatten zoeken.
 
 ### RESPONSE FORMAT
 
@@ -60,11 +61,20 @@ Zorg dat de output altijd in de vorm van een genummerde lijst geschreven is.
 ## Herschreven prompt
 
 ```markdown
-Stel een lijst samen van ten minste vijf concrete en nuttige tips voor het sneller en effectiever leren van een nieuwe taal. Zorg dat de lijst geschreven is in een informele en motiverende stijl, met een positieve en inspirerende toon. Houd rekening met beginnende taalstudenten als doelgroep en lever de tips in een genummerde lijst.
+Je hebt de opdracht gekregen om een overzichtelijke lijst met praktische en inspirerende tips te maken om sneller en effectiever een nieuwe taal te leren. 
+
+**Doel**: Het doel is om ten minste vijf concrete en nuttige tips te bieden waarmee taalstudenten direct aan de slag kunnen om hun leerproces te verbeteren.
+
+**De stijl en toon van de tekst**: Schrijf in een informele en motiverende stijl die perfect aansluit bij de behoeften van beginnende taalstudenten. Houd de toon positief en inspirerend, zodat taalstudenten gemotiveerd blijven om door te gaan. Richt je op mensen die net beginnen met het leren van een nieuwe taal en praktische tips zoeken om hun doelen te bereiken.
+
+Zorg dat de output altijd in de vorm van een genummerde lijst geschreven is.
 ```
+
+````
 
 # FORMAT
 
+````markdown
 ## Originele prompt
 
 {Originele prompt}
@@ -100,8 +110,16 @@ Zorg dat de output altijd in {format} geschreven is.
 ## Herschreven prompt
 
 ```markdown
-{herschreven prompt als vloeiend lopende tekst}
+{context}
+
+**Doel**: {objective}
+
+**De stijl en toon van de tekst**: {style, tone and audience}
+
+{response format}
 ```
+
+````
 
 # OUTPUT INSTRUCTIES
 
