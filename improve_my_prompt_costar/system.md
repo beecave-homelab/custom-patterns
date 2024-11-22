@@ -77,7 +77,9 @@ Zorg dat de output altijd in de vorm van een genummerde lijst geschreven is.
 ````markdown
 ## Originele prompt
 
+```markdown
 {Originele prompt}
+```
 
 ---
 
