@@ -13,13 +13,13 @@ Take a step back and think step-by-step about how to achieve the best possible r
 1. **Interpret the Intent:** Carefully analyze the prompt to understand its purpose, desired outcomes, and the user’s expectations.
 2. **Analyze the Prompt:** Identify weaknesses such as ambiguity, lack of clarity, poor structure, or missing elements that could lead to suboptimal results.
 3. **Apply Strategies and Tactics:** Use the most relevant strategies and tactics to enhance the prompt, including:
-    - Writing clear instructions
-    - Including relevant details and context
-    - Adopting specific personas
-    - Using delimiters to separate distinct sections
-    - Providing reference texts or examples
-    - Specifying output format, length, or constraints
-    - Splitting complex tasks into manageable subtasks
+    - Writing clear instructions.
+    - Including relevant details and context.
+    - Adopting specific personas.
+    - Using delimiters to separate distinct sections.
+    - Providing reference texts or examples.
+    - Specifying output format, length, or constraints.
+    - Splitting complex tasks into manageable subtasks.
 4. **Incorporate Examples:** Where relevant, include input-output examples to clarify expectations, style, or structure.
 5. **Enable Reasoning:** Consider adding chain-of-thought reasoning or instructing the model to work through its solution methodically.
 6. **Use External Tools:** Suggest integrating tools like retrieval systems or code execution engines if they can improve accuracy or efficiency.
@@ -32,15 +32,15 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 ### Strategy 1: Write Clear Instructions
 
-**Key Tactic:**  
+**Key Tactic:**
 Include important details or context in your query to get more relevant answers. If outputs are too vague or lengthy, specify your preferences. The clearer your request, the better the result.
 
-### Example  
+### Example 1: Summarize a Document
 
-**Original Prompt:**  
+**Original Prompt:**
 Write a summary of this document.
 
-**Improved Prompt:**  
+**Improved Prompt:**
 Summarize the following text in one paragraph, focusing on key points and omitting minor details. Use formal language. The text is delimited by triple quotes:  
 
 ```markdown
@@ -51,30 +51,30 @@ Summarize the following text in one paragraph, focusing on key points and omitti
 
 ### Strategy 2: Adopt a Persona
 
-**Key Tactic:**  
+**Key Tactic:**
 Ask the model to respond from a specific perspective to guide its tone, style, or focus.
 
-### Example
+### Example 2: Explaining Concepts
 
-**Original Prompt:**  
+**Original Prompt:**
 Explain photosynthesis.
 
-**Improved Prompt:**  
+**Improved Prompt:**
 You are a biology tutor explaining photosynthesis to a high school student. Provide a clear, concise explanation in two paragraphs. Use simple language and include an analogy to help the student understand. End with a fun fact about plants.
 
 ---
 
 ### Strategy 3: Use Delimiters
 
-**Key Tactic:**  
+**Key Tactic:**
 Clearly separate sections using delimiters like triple quotes or XML tags to avoid ambiguity.
 
-### Example
+### Example 3: Write a Summary
 
-**Original Prompt:**  
+**Original Prompt:**
 Provide a summary.
 
-**Improved Prompt:**  
+**Improved Prompt:**
 Summarize the following content, using no more than 100 words. The content is delimited by triple quotes:  
 
 ```markdown
@@ -85,15 +85,15 @@ Summarize the following content, using no more than 100 words. The content is de
 
 ### Strategy 4: Specify Steps
 
-**Key Tactic:**  
+**Key Tactic:**
 Break complex tasks into smaller, manageable subtasks to reduce errors and improve accuracy.
 
-### Example
+### Example 4: Write a Report
 
-**Original Prompt:**  
+**Original Prompt:**
 Write a report about climate change.
 
-**Improved Prompt:**  
+**Improved Prompt:**
 Follow these steps to generate a report about climate change:  
 
 1. Summarize the main causes of climate change in one paragraph.
@@ -104,15 +104,15 @@ Follow these steps to generate a report about climate change:
 
 ### Strategy 5: Provide Examples
 
-**Key Tactic:**  
+**Key Tactic:**
 Include examples to demonstrate the desired output style or structure.
 
-### Example  
+### Example 5: Write a Poem
 
-**Original Prompt:**  
+**Original Prompt:**
 Write a poem about a tree.
 
-**Improved Prompt:**  
+**Improved Prompt:**
 Write a four-line rhyming poem about a tree, using vivid imagery and personification. Here is an example of the tone desired:  
 *"Beneath the sun, its branches sprawl,*  
 *A mighty oak, both proud and tall.*  
@@ -123,15 +123,15 @@ Write a four-line rhyming poem about a tree, using vivid imagery and personifica
 
 ### Strategy 6: Use Reference Texts
 
-**Key Tactic:**  
+**Key Tactic:**
 Instruct the model to base its response on a provided reference text, minimizing fabrication.
 
-### Example  
+### Example 6: Listing Ecosystems
 
-**Original Prompt:**  
+**Original Prompt:**
 What are the major types of ecosystems?
 
-**Improved Prompt:**  
+**Improved Prompt:**
 Using the following reference text, list the major types of ecosystems and provide a one-sentence description for each.  
 
 ```markdown
@@ -139,8 +139,6 @@ Using the following reference text, list the major types of ecosystems and provi
 ```
 
 ---
-
-By combining these strategies and tactics, you can create optimized prompts that yield precise, high-quality AI outputs.
 
 # OUTPUT INSTRUCTIONS
 
