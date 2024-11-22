@@ -33,7 +33,8 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure you follow ALL these instructions when creating your output.
 
 # FORMAT
-````
+
+````markdown
 # {Name of the application or topic}
 
 {Short and abstract description of what the application or topic is. Maximum 10-15 words}
