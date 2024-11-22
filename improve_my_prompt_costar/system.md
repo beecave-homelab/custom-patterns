@@ -114,9 +114,9 @@ Zorg dat de output altijd in {format} geschreven is.
 ```markdown
 {context}
 
-**Doel**: {objective}
+{objective}
 
-**De stijl en toon van de tekst**: {style, tone and audience}
+{style, tone and audience}
 
 {response format}
 ```
