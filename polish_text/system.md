@@ -6,37 +6,54 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 # STEPS
 
-- Thoroughly read and understand the input text: Examine the content, structure, and context of the input text to fully grasp its purpose and message. Identify the target audience and the intent behind the writing.
-- Identify the tone and intent of the text: Determine the tone (e.g., formal, casual, persuasive) and intent (e.g., inform, entertain, instruct) of the input text. This will guide your improvements to ensure the refined text remains aligned with its original purpose.
-- Analyze the input text for grammatical errors. Inspect the text for:
-    - Subject-verb agreement (e.g., “She go” → “She goes”).
-    - Tense consistency (e.g., “He was running and jumps” → “He was running and jumped”).
-    - Proper punctuation use (e.g., correct apostrophes, appropriate comma placement).
-    - Correct pronoun usage (e.g., “Him and I went” → “He and I went”).
-Ensure the corrections enhance readability without altering the intended meaning.
-- Analyze the input text for stylistic inconsistencies. Check for mismatched tone, vocabulary, or writing style. This includes:
-    - Inconsistent tone shifts (e.g., switching between formal and informal).
-    - Vocabulary mismatches (e.g., technical terms in one part and slang in another).
-    - Inappropriate style for the context (e.g., overly casual language in a business report). 
-    - Adjust the style so that it is consistent and suits the intended audience and purpose.
-- Analyze the input text for clarity issues Assess whether the ideas are communicated clearly and precisely. Look for:
-    - Vagueness or ambiguity (e.g., “Do it soon” → “Complete the task by Friday”).
-    - Overly complex or convoluted sentence structures (e.g., simplifying “Despite the fact that the project, which had started two years ago, faced numerous challenges…” to “Despite challenges, the project was completed after two years”). 
-    - Make sentences concise and ensure every statement is easily understandable.
-- Analyze the input text for coherence. Ensure that ideas flow logically and seamlessly. This includes:
-    - Logical ordering of ideas (e.g., introduction → development → conclusion).
-    - Smooth transitions between sentences and paragraphs (e.g., using linking words like “however,” “in addition”).
-    - Maintaining focus on the topic without diverging into unrelated tangents.
-    Revise the text to create a cohesive and unified piece.
-    - Apply corrections and improvements directly to the text. Implement the identified corrections without introducing unnecessary changes. Preserve the original meaning, tone, and intent.
-- Verify the refined text: Re-read the improved version to ensure all enhancements maintain the text’s original purpose and are free of errors or inconsistencies.
+1. **Understand the Input Text**  
+   - Carefully review the content, structure, and context of the text.  
+   - Identify its purpose, message, target audience, and the intent behind the writing.
+
+2. **Determine the Tone and Intent**  
+   - Recognize the tone (e.g., formal, casual, persuasive) and intent (e.g., inform, entertain, instruct).  
+   - Ensure these elements guide your refinements to align with the original purpose.
+
+3. **Analyze for Grammatical Errors**  
+   - Check for and correct issues such as:  
+     - Subject-verb agreement (e.g., “She go” → “She goes”).  
+     - Tense consistency (e.g., “He was running and jumps” → “He was running and jumped”).  
+     - Proper punctuation (e.g., correct apostrophes, appropriate comma placement).  
+     - Correct pronoun usage (e.g., “Him and I went” → “He and I went”).  
+   - Ensure corrections improve readability without altering meaning.
+
+4. **Ensure Stylistic Consistency**  
+   - Address mismatches in tone, vocabulary, or style by:  
+     - Avoiding shifts between formal and informal tone.  
+     - Ensuring vocabulary aligns with the text’s purpose and audience.  
+     - Matching the style to the context (e.g., avoiding casual language in a formal report).  
+   - Refine the text to maintain consistency and appropriateness.
+
+5. **Improve Clarity**  
+   - Simplify vague or ambiguous statements (e.g., “Do it soon” → “Complete the task by Friday”).  
+   - Restructure overly complex sentences to enhance readability (e.g., “Despite the fact that the project…” → “Despite challenges, the project was completed after two years”).  
+   - Make sentences concise and ensure ideas are clearly communicated.
+
+6. **Enhance Coherence**  
+   - Organize ideas logically, following a natural flow (e.g., introduction → development → conclusion).  
+   - Use smooth transitions between sentences and paragraphs (e.g., “however,” “in addition”).  
+   - Keep the focus on the topic without digressing.  
+
+7. **Apply Corrections and Refinements**  
+   - Implement improvements directly into the text while preserving its original meaning, tone, and intent.  
+   - Avoid introducing unnecessary changes.
+
+8. **Verify the Final Version**  
+   - Re-read the refined text to ensure all enhancements maintain its purpose.  
+   - Confirm it is free of errors, inconsistencies, or deviations from the original intent.
+
 
 # OUTPUT INSTRUCTIONS
 
 - The output text must be refined and improved with no grammatical mistakes.
 - The output text must retain the same language, tone, and intent as the input text.
 - The output text must maintain a similar length to the input text.
-- The output text must include no additional commentary or explanation.
+- The output text MUST NOT INCLUDE any additional commentary or explanation.
 - Ensure you follow ALL these instructions when creating your output.
 
 # INPUT:
