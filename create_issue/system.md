@@ -33,37 +33,47 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # FORMAT
 
 ````markdown
-# INPUT_REQUIRED {Write a fitting title as an H1 header for the Jira issue and make it relevant to the topic. Maximum of 5 words.}
+# {Write a fitting title as an H1 header for the Jira issue and make it relevant to the topic. Maximum of 5 words.}
 
 ## Description
-- INPUT_REQUIRED {Write a short paragraph explaining the topic so the reader understands what is needed and why}.
+
+{Write a short paragraph explaining the topic so the reader understands what is needed and why}.
 
 ## Goals
-- INPUT_REQUIRED {Write a short paragraph explaining all the goals so the reader understands what is needed and why}.
+
+{Write a short paragraph explaining all the goals so the reader understands what is needed and why}.
 
 ## Expected outcomes
-- INPUT_REQUIRED {Write a short paragraph explaining the topic so the reader understands what the expected outcomes are}.
+
+{Write a short paragraph explaining the topic so the reader understands what the expected outcomes are}.
 
 ## Involvement and time investment
-- INPUT_REQUIRED {Write a short paragraph explaining the people involved and the expected time investment so the reader understands what is needed and why}.
+
+{Write a short paragraph explaining the people involved and the expected time investment so the reader understands what is needed and why}.
 
 ## Plan of Action
+
 ```markdown
 ## QUESTIONS 
-INPUT_REQUIRED {Think step-by-step of any question that might arise when working on the topic}.
+
+{Think step-by-step of any question that might arise when working on the topic}.
 
 ## STEPS
-INPUT_REQUIRED {Think step-by-step of everything that needs to be implemented to achieve the goals. What needs to be done and how it needs to be done}.
+
+{Think step-by-step of everything that needs to be implemented to achieve the goals. What needs to be done and how it needs to be done}.
 
 ## RISKS
-INPUT_REQUIRED {Think step-by-step of any risks that might arise when working on implementing the steps. Any implementation should be secure by design}.
+
+{Think step-by-step of any risks that might arise when working on implementing the steps. Any implementation should be secure by design}.
 
 ## TECHNICAL
-INPUT_REQUIRED {Think step-by-step of everything that needs to be implemented to achieve the goals in terms of technical aspects}.
+
+{Think step-by-step of everything that needs to be implemented to achieve the goals in terms of technical aspects}.
 ```
 
 ## Acceptance Criteria
-- INPUT_REQUIRED {Follow the template below and make it relevant to the topic}
+
+{Follow the template below and make it relevant to the topic}
 
 ```yaml
 --- Write feedback
@@ -75,6 +85,7 @@ INPUT_REQUIRED {Think step-by-step of everything that needs to be implemented to
 * [blocked] All the steps from the feedback plan from X are correctly implemented.
 * [in progress] All code blocks are nicely formatted with a specified language.
 ```
+
 ````
 
 # INPUT
