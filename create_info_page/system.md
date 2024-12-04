@@ -55,9 +55,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 {Detailed explanation of this subtopic relevant to the application or concept}
 
-## Who is/can use(ing) {name of the application or topic}?
+## For who is {name of the application or topic} intended?
 
-{Examples of who can use the application or topic.}
+{Examples of who can use the application or topic and it's intended use cases}
 
 ---
 ````
