@@ -7,7 +7,7 @@ A repository containing custom system prompts for use with Large Language Models
 - [Badges](#badges)
 - [About System Prompts (Patterns)](#about-system-prompts-patterns)
 - [Pattern Structure](#pattern-structure)
-- [Patterns](#patterns)
+- [Overview of Patterns](#overview-of-patterns)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -74,6 +74,7 @@ custom-patterns
 ├── clean_markdown_file
 ├── code_changes
 ├── coding_rules
+├── create_audio_overview_prompt
 ├── create_bash_script
 ├── create_do_not_translate_word_list
 ├── create_english_word_list
@@ -85,6 +86,7 @@ custom-patterns
 ├── create_issue
 ├── create_multiple_choice_question
 ├── create_pattern_nl
+├── create_pattern_readme
 ├── create_podcast_script
 ├── create_project_overview
 ├── create_readme
@@ -98,6 +100,8 @@ custom-patterns
 ├── improve_my_prompt
 ├── improve_my_prompt_costar
 ├── polish_text
+├── replace_pii_with_placeholder
+├── replace_url_with_placeholder
 ├── rewrite_issue_description
 ├── summarize_article
 ├── summarize_chapter
