@@ -4,7 +4,7 @@
 
 **`create_bash_script` addresses the problem of automating the creation of bash scripts based on user prompts.**
 
-_Not only that, but uses the checklist from the `context/` folder to ensure that the script is of high quality and follows best practices._
+_Not only that, but uses the files from the `context/` folder to ensure that the script is of follows a template, is of high quality and follows best practices._
 
 This pattern simplifies the process of generating bash scripts by providing a structured template and checklist.
 
