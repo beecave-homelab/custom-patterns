@@ -87,7 +87,7 @@ This allows you to quickly extract what's valuable and meaningful from the conte
 
 - **Author**: Elvee
 - **Version Information**: {{PATTERN_VERSION_NUMBER}}
-- **Published**: {{PATTERN_PUBLISHED_DATE}}
+- **Published**: {{PATTERN_PUBLISHED_DATE}} (written in DD-MM-YYYY format)
 ````
 
 ## INPUT
