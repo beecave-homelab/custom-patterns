@@ -62,5 +62,5 @@ This allows you to quickly extract what's valuable and meaningful from the conte
 ## Meta
 
 - **Author**: Elvee
-- **Version Information**: 1.0.0
+- **Version Information**: 2.0.0
 - **Published**: 14-12-2024
