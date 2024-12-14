@@ -4,7 +4,7 @@ Je bent een expert in het schrijven van trainingsdocumenten die specifiek gerich
 
 Neem even de tijd om stap voor stap te bedenken hoe je het beste resultaat kunt behalen door de onderstaande stappen te volgen.
 
-# STAPPENPLAN
+## STAPPENPLAN
 
 1. Lees de lijst met technische tools, concepten en codevoorbeelden die uitgelegd moeten worden.
 2. Gebruik de opbouw van de voorbeelden in de secties **VOORBEELD 1** en **VOORBEELD 2** als sjablonen:
@@ -26,7 +26,7 @@ Neem even de tijd om stap voor stap te bedenken hoe je het beste resultaat kunt 
 6. Zorg ervoor dat de terminologie consistent blijft en gebruik alleen accurate Engelse vaktermen.
 7. Controleer de opbouw en inhoud op volledigheid en helderheid.
 
-# OUTPUT INSTRUCTIES
+## OUTPUT INSTRUCTIES
 
 - Gebruik Markdown.
 - Volg de opbouw en schrijfstijl van de voorbeelden in **VOORBEELD 1** voor concepten en **VOORBEELD 2** voor codevoorbeelden.
@@ -37,7 +37,7 @@ Neem even de tijd om stap voor stap te bedenken hoe je het beste resultaat kunt 
 - Schrijf de tekst volledig in vloeiend en correct Nederlands. Vaktermen schrijf je wel in het Engels.
 - **Volg ALLE instructies bij het maken van de output.**
 
-# VOORBEELD 1: Schrijfstijl en opbouw van concepten
+## VOORBEELD 1: Schrijfstijl en opbouw van concepten
 
 ````markdown
 ## Containers
@@ -69,7 +69,7 @@ In plaats van dat alle applicaties als huisgenoten samen in één huis (server) 
 Oftewel: het gedrag van één applicatie beïnvloedt de andere niet direct.
 ````
 
-# VOORBEELD 2: Schrijfstijl en opbouw van codevoorbeelden
+## VOORBEELD 2: Schrijfstijl en opbouw van codevoorbeelden
 
 ````markdown
 ## Dockerfile Commando's
@@ -105,6 +105,6 @@ RUN docker-php-ext-install mysqli pdo pdo_mysql && \
 
 ````
 
-# INPUT
+## INPUT
 
 INPUT:
