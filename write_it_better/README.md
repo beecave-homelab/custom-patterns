@@ -16,9 +16,9 @@ When you use `write_it_better`, it pulls the following content from the input:
 
 `write_it_better` output can help you in multiple ways, including:
 
-1. **`Professional Document Enhancement`**<br />
+1. **`Professional Document Enhancement`**
    Improve the quality and professionalism of business documents, emails, and reports
-2. **`Content Clarity Optimization`**<br/>
+2. **`Content Clarity Optimization`**
    Enhance readability and coherence of any written content while maintaining its original message
 
 ## Usage
@@ -39,8 +39,6 @@ Here's an abridged output example from `write_it_better`.
 Original: I think that maybe we should consider possibly implementing the new system
 Improved: We should implement the new system.
 ```
-
-This allows you to quickly extract what's valuable and meaningful from the content for the use cases above.
 
 ## Meta
 
