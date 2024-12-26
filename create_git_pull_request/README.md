@@ -8,13 +8,10 @@ This pattern helps developers create well-structured, detailed pull request docu
 
 ## Functionality
 
-When you use `Create Git Pull Request`, it pulls the following content from the input:
+When you use `Create Git Pull Request`, it uses the following content from the output of the `git --no-pager diff main` command:
 
 - Git diff output showing changes between branches
 - Added, modified, and deleted files
-- Code changes and their descriptions
-- Testing plans and impact analysis
-- Commit types with standardized emojis
 
 ### Use cases
 
