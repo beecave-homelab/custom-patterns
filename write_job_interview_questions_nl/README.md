@@ -18,9 +18,9 @@ Wanneer je `write_job_interview_questions_nl` gebruikt, haalt het de volgende in
 
 De output van `write_job_interview_questions_nl` kan je op meerdere manieren helpen, waaronder:
 
-1. **`Interview Preparation`**<br />
+1. **`Interview Preparation`**
    Oefen met het beantwoorden van algemene en functie-specifieke interviewvragen voor het daadwerkelijke gesprek
-2. **`Interview Question Generation`**<br/>
+2. **`Interview Question Generation`**
    Genereer relevante interviewvragen op basis van functieomschrijvingen en -eisen
 
 ## Usage
@@ -29,10 +29,9 @@ Je kunt direct naar de `write_job_interview_questions_nl` **system.md** inhoud v
 
 ### **Pull the _system_ prompt directly**
 
-````
-
+```shell
 curl -sS https://github.com/beecave-homelab/custom-patterns/blob/main/write_job_interview_questions_nl/system.md
-````
+```
 
 ## Output
 
@@ -42,14 +41,17 @@ Hier is een verkort voorbeeldresultaat van `write_job_interview_questions_nl`.
 # Voorbeeldvragen voor [Functietitel]
 
 ## Algemene vragen
+
 - Vertel eens wat over jezelf
 - Waarom solliciteer je op deze functie?
 - Wat spreekt je aan in ons bedrijf?
 
 ## Technische vragen
+
 - [Functie-specifieke technische vragen]
 
 ## Vaardigheidsvragen
+
 - Beschrijf een situatie waarin je...
 - Hoe ga je om met...
 ```
@@ -59,5 +61,5 @@ Hiermee kun je snel waardevolle en betekenisvolle inhoud extraheren voor de bove
 ## Meta
 
 - **Author**: elvee
-- **Version Information**: 1.0.0
+- **Version Information**: 1.0.1
 - **Published**: 15-12-2024
