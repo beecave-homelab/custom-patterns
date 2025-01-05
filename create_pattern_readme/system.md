@@ -44,8 +44,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 **`{{PATTERN_NAME}}` addresses the problem of {{PROBLEM_PATTERN_ADDRESSES}}**
 
-_Not only that, but it's also too easy to forget the stuff we read, watch, or listen to._
-
 This pattern {{PATTERN_USECASES_SUMMARY}}
 
 ## Functionality
@@ -58,9 +56,9 @@ When you use `{{PATTERN_NAME}}`, it pulls the following content from the input:
 
 `{{PATTERN_NAME}}` output can help you in multiple ways, including:
 
-1. **`{{PATTERN_USECASE_1}}`**<br />
+1. **`{{PATTERN_USECASE_1}}`**
    {{PATTERN_USECASE_1_DESCRIPTION}}
-2. **`{{PATTERN_USECASE_2}}`**<br/>
+2. **`{{PATTERN_USECASE_2}}`**
    {{PATTERN_USECASE_2_DESCRIPTION}}
 
 ## Usage
@@ -87,7 +85,7 @@ This allows you to quickly extract what's valuable and meaningful from the conte
 
 - **Author**: Elvee
 - **Version Information**: {{PATTERN_VERSION_NUMBER}}
-- **Published**: {{PATTERN_PUBLISHED_DATE}} (written in DD-MM-YYYY format)
+- **Published**: {{PATTERN_PUBLISHED_DATE} DD-MM-YYYY}
 ````
 
 ## INPUT
