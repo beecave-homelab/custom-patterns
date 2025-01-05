@@ -83,7 +83,7 @@ This allows you to quickly extract what's valuable and meaningful from the conte
 
 ## Meta
 
-- **Author**: Elvee
+- **Author**: elvee
 - **Version Information**: {{PATTERN_VERSION_NUMBER}}
 - **Published**: {{PATTERN_PUBLISHED_DATE} DD-MM-YYYY}
 ````
