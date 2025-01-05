@@ -103,6 +103,8 @@ main() {
   context_files=(
     "create_bash_script/context/create_bash_script/bash-script-checklist.md"
     "create_bash_script/context/create_bash_script/bash-script-template.md"
+    "create_python_project/context/boilerplate-example.md"
+    "create_python_project/context/python-coding-standards.md"
   )
 
   # Define files and directories to exclude from patterns copying
