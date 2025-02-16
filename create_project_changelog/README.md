@@ -66,9 +66,11 @@ This allows you to quickly extract what's valuable and meaningful from the conte
 The generator organizes commits into the following categories:
 
 #### Added
+
 - Features and enhancements (`feat ✨`)
 
 #### Changed
+
 - Performance Improvements (`perf 🚀`)
 - Breaking Changes (`breaking 🔥`)
 - Code Style Changes (`style 💎`)
@@ -77,10 +79,12 @@ The generator organizes commits into the following categories:
 - Chores (`chore 📦`)
 
 #### Fixed
+
 - Bug Fixes (`fix 🐛`)
 - Tests (`test 🧪`)
 
 #### Removed
+
 - Reverted Changes (`revert ⏪`)
 
 ### Git Commands Used
