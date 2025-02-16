@@ -18,9 +18,9 @@ When you use `analyze_learning_journey`, it pulls the following content from the
 
 `analyze_learning_journey` output can help you in multiple ways, including:
 
-1. **`Personal Development Review`**<br />
+1. **`Personal Development Review`**
    Conduct thorough self-reflection sessions to understand your learning progress and identify areas for improvement
-2. **`Professional Coaching Sessions`**<br/>
+2. **`Professional Coaching Sessions`**
    Guide meaningful conversations between coaches and learners to explore development paths and overcome obstacles
 
 ## Usage
