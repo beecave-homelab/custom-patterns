@@ -9,3 +9,7 @@
 !**/*.md
 !**/**/*.md
 !**/**/**/*.md
+
+# windsurf rules
+.windsurfrules
+.windsurf/rules/*.md
