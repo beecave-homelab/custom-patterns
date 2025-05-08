@@ -8,7 +8,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 ## STEPS
 
-- Execute the `git --no-pager diff main` command to retrieve the differences between the main branch and the current state.
+- Execute the `git --no-pager diff <branch_name>` command to retrieve the differences between the main branch and the current state.
 - Analyze the output to identify changes categorized as “Added,” “Modified,” or “Deleted.”
 - Translate these findings into the structured format provided, under the corresponding sections.
 - Use only the specified commit types and emojis when describing changes. The allowed types are:
